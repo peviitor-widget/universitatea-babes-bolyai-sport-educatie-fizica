@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/antrenor-atletism",
+    "title": "antrenor atletism",
+    "company": "ACADEMIA VIITORILOR EXPLORATORI S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:25:57.371Z",
+    "status": "scraped",
+    "tags": [
+      "planificarea antrenamentului",
+      "programare individualizata"
+    ],
+    "matchPercentage": 92,
+    "reason": "Antrenor atletism in Cluj, cu sarcini direct de planificare si monitorizarea antrenamentului, la nivel entry-level."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/instructor-antrenor-de-inot-pentru-copii-6q5dmz",
+    "title": "Instructor / Antrenor de înot pentru copii",
+    "company": "BLUEWAN ART S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:23:53.672Z",
+    "status": "scraped",
+    "tags": [
+      "conducerea sedintelor",
+      "metodica antrenamentului"
+    ],
+    "matchPercentage": 78,
+    "reason": "Instructor de inot pentru copii, potrivire partiala de domeniu la nivel entry, dar ramane in specializarea aquatica."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/performance-trainer-glow-models-studio",
+    "title": "Performance Trainer – GLOW MODELS STUDIO",
+    "company": "EVEREST NEW GLOW S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:27:14.063Z",
+    "status": "scraped",
+    "tags": [
+      "pregătire fizică",
+      "coaching"
+    ],
+    "matchPercentage": 74,
+    "reason": "Performance Trainer într-un studio se potrivește ca rol de pregătire fizică, dar descrierea scurtă și faptul că este un studio de modelling lasă domeniul doar parțial confirmat."
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-antrenor-pilates-reformer-Ve9Z2P",
+    "title": "Antrenor pilates reformer",
+    "company": "ANUNTUL TOTAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:23:36.972Z",
+    "status": "scraped",
+    "tags": [
+      "programare individualizata",
+      "conducerea sedintelor"
+    ],
+    "matchPercentage": 70,
+    "reason": "Antrenor pilates la nivel incepator, domeniu conex dar fara descriere detaliata a sarcinilor."
+  }
+]
