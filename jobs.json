@@ -1,1 +1,87 @@
-[]
+[
+  {
+    "url": "https://18gym.ro/cariere/#antrenor-personal",
+    "title": "Antrenor personal",
+    "company": "EIGHTEENGYM SRL",
+    "location": [
+      "Alba Iulia",
+      "Arad",
+      "Bacău",
+      "Baia Mare",
+      "Bistrița",
+      "Brașov",
+      "București",
+      "Cluj-Napoca",
+      "Câmpia Turzii",
+      "Constanța",
+      "Luduș",
+      "Mediaș",
+      "Piatra Neamț",
+      "Satu-Mare",
+      "Târgu Mureș",
+      "Turda",
+      "Iași",
+      "Sibiu"
+    ],
+    "salary": null,
+    "date": "2026-10-03T18:16:26.653Z",
+    "status": "activ",
+    "tags": [
+      "coaching sportiv",
+      "pregătire fizică"
+    ],
+    "matchPercentage": 88,
+    "reason": "Antrenor personal entry-level într-un lanț de fitness, aplică direct planificarea antrenamentului și conducerea ședințelor."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/cautam-antrenor-personal-certificat-fitness",
+    "title": "Cautam antrenor personal certificat,fitness",
+    "company": "PURESHAPES SRL",
+    "location": [
+      "Pure Shapes Unirii, Bulevardul Unirii, Bucuresti, Romania,Pure Shapes, Strada Baba Novac, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:18:07.727Z",
+    "status": "scraped",
+    "tags": [
+      "coaching sportiv",
+      "pregătire fizică"
+    ],
+    "matchPercentage": 86,
+    "reason": "Antrenor personal certificat fitness, nivel entry-level, direct în planificarea și conducerea antrenamentelor."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/antrenor-de-fotbal-grupa/1990120",
+    "title": "ANTRENOR DE FOTBAL GRUPA 2018–2019",
+    "company": "ASOCIATIA CLUBUL SPORTIV VOINTA SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:16:21.164Z",
+    "status": "scraped",
+    "tags": [
+      "conducerea antrenamentului",
+      "grupe juniori"
+    ],
+    "matchPercentage": 84,
+    "reason": "Antrenament și coordonare a unei grupe de copii, monitorizarea progresului și pregătirea pentru competiții."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/kinetoterapeut-servicii-de-recuperare-la-domiciliu/1985811",
+    "title": "Kinetoterapeut – Servicii de Recuperare la Domiciliu",
+    "company": "VACAR TRAIAN PERSOANĂ FIZICĂ AUTORIZATĂ",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-03T13:17:11.317Z",
+    "status": "scraped",
+    "tags": [
+      "prevenirea accidentărilor",
+      "recuperare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Kinetoterapia la domiciliu se leagă de recuperare și prevenirea accidentărilor, dar este activitate clinică, nu de antrenament sportiv sau conducere a procesului de pregătire."
+  }
+]
