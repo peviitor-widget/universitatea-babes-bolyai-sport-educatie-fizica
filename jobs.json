@@ -1,37 +1,37 @@
 [
   {
-    "url": "https://18gym.ro/cariere/#antrenor-personal",
-    "title": "Antrenor personal",
-    "company": "EIGHTEENGYM SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/antrenor-atletism",
+    "title": "antrenor atletism",
+    "company": "ACADEMIA VIITORILOR EXPLORATORI S.R.L.",
     "location": [
-      "Alba Iulia",
-      "Arad",
-      "Bacău",
-      "Baia Mare",
-      "Bistrița",
-      "Brașov",
-      "București",
-      "Cluj-Napoca",
-      "Câmpia Turzii",
-      "Constanța",
-      "Luduș",
-      "Mediaș",
-      "Piatra Neamț",
-      "Satu-Mare",
-      "Târgu Mureș",
-      "Turda",
-      "Iași",
-      "Sibiu"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T18:16:26.653Z",
-    "status": "activ",
+    "date": "2026-10-04T14:04:52.900Z",
+    "status": "scraped",
     "tags": [
-      "coaching sportiv",
+      "antrenament",
+      "competiție sportivă"
+    ],
+    "matchPercentage": 95,
+    "reason": "Antrenor de atletism folosește direct planificarea antrenamentului, competiția și monitorizarea performanței sportive."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/instructor-antrenor-de-inot-pentru-copii-6q5dmz",
+    "title": "Instructor / Antrenor de înot pentru copii",
+    "company": "BLUEWAN ART S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-04T13:48:44.256Z",
+    "status": "scraped",
+    "tags": [
+      "antrenament",
       "pregătire fizică"
     ],
-    "matchPercentage": 88,
-    "reason": "Antrenor personal entry-level într-un lanț de fitness, aplică direct planificarea antrenamentului și conducerea ședințelor."
+    "matchPercentage": 85,
+    "reason": "Instructor de înot pentru copii folosește antrenamentul, metodologia și munca cu grupele de juniori, fiind relevant pentru domeniul EFS."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/cautam-antrenor-personal-certificat-fitness",
@@ -41,47 +41,13 @@
       "Pure Shapes Unirii, Bulevardul Unirii, Bucuresti, Romania,Pure Shapes, Strada Baba Novac, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-03T13:18:07.727Z",
+    "date": "2026-10-04T14:12:07.013Z",
     "status": "scraped",
     "tags": [
-      "coaching sportiv",
-      "pregătire fizică"
+      "antrenament",
+      "performanță sportivă"
     ],
-    "matchPercentage": 86,
-    "reason": "Antrenor personal certificat fitness, nivel entry-level, direct în planificarea și conducerea antrenamentelor."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/antrenor-de-fotbal-grupa/1990120",
-    "title": "ANTRENOR DE FOTBAL GRUPA 2018–2019",
-    "company": "ASOCIATIA CLUBUL SPORTIV VOINTA SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:16:21.164Z",
-    "status": "scraped",
-    "tags": [
-      "conducerea antrenamentului",
-      "grupe juniori"
-    ],
-    "matchPercentage": 84,
-    "reason": "Antrenament și coordonare a unei grupe de copii, monitorizarea progresului și pregătirea pentru competiții."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/kinetoterapeut-servicii-de-recuperare-la-domiciliu/1985811",
-    "title": "Kinetoterapeut – Servicii de Recuperare la Domiciliu",
-    "company": "VACAR TRAIAN PERSOANĂ FIZICĂ AUTORIZATĂ",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-03T13:17:11.317Z",
-    "status": "scraped",
-    "tags": [
-      "prevenirea accidentărilor",
-      "recuperare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Kinetoterapia la domiciliu se leagă de recuperare și prevenirea accidentărilor, dar este activitate clinică, nu de antrenament sportiv sau conducere a procesului de pregătire."
+    "matchPercentage": 65,
+    "reason": "Antrenor personal are legătură cu antrenamentul fizic, dar fitness-ul general nu corespunde direct specializării din planul de învățământ."
   }
 ]
