@@ -7,30 +7,30 @@
       "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:10:26.899Z",
+    "date": "2026-10-06T15:05:29.797Z",
     "status": "scraped",
     "tags": [
-      "Proiectarea programelor de antrenament",
-      "Evaluarea și monitorizarea performanței"
+      "Planificarea antrenamentului",
+      "Evaluarea performanței"
     ],
     "matchPercentage": 92,
-    "reason": "Antrenorat direct: programe de antrenament individualizate, monitorizarea performanței și prevenirea accidentărilor sunt competențe cheie ale planului de învățământ, nivel adecvat."
+    "reason": "Antrenorat direct: programe de antrenament individualizate, monitorizarea progresului și prevenirea accidentărilor sunt competențe centrale ale planului de învățământ."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/kinetoterapeut-ploiesti",
-    "title": "Kinetoterapeut Ploiesti",
-    "company": "ISOKINETIC SPORT S.A.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
+    "title": "INSTRUCTOR / ANTRENOR DE INOT",
+    "company": "AQUA LIFE SWIMMING SRL",
     "location": [
-      "Ploiesti, Romania"
+      "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-05T17:03:16.404Z",
+    "date": "2026-10-06T14:59:12.818Z",
     "status": "scraped",
     "tags": [
-      "Prevenirea accidentărilor",
-      "Pregătirea fizică în sportul competițional"
+      "Metodica antrenamentului",
+      "Conducerea antrenamentului"
     ],
-    "matchPercentage": 68,
-    "reason": "Kinetoterapie și recuperare, domeniu apropiat de pregătirea fizică și prevenirea accidentărilor, dar nu este antrenament sportiv propriu-zis."
+    "matchPercentage": 86,
+    "reason": "Instructor/antrenor de înot folosește direct competențele de conducere a antrenamentului și metodica antrenamentului pe ramuri de sport."
   }
 ]
