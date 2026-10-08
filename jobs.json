@@ -1,36 +1,70 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/antrenor-atletism",
-    "title": "antrenor atletism",
-    "company": "ACADEMIA VIITORILOR EXPLORATORI S.R.L.",
-    "location": [
-      "Cluj-Napoca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-06T15:05:29.797Z",
-    "status": "scraped",
-    "tags": [
-      "Planificarea antrenamentului",
-      "Evaluarea performanței"
-    ],
-    "matchPercentage": 92,
-    "reason": "Antrenorat direct: programe de antrenament individualizate, monitorizarea progresului și prevenirea accidentărilor sunt competențe centrale ale planului de învățământ."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
-    "title": "INSTRUCTOR / ANTRENOR DE INOT",
-    "company": "AQUA LIFE SWIMMING SRL",
+    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
+    "title": "Antrenor Fotbal - Dezvoltare Tineret",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-06T14:59:12.818Z",
+    "date": "2026-10-07T15:25:54.483Z",
     "status": "scraped",
     "tags": [
-      "Metodica antrenamentului",
-      "Conducerea antrenamentului"
+      "Planificarea antrenamentului",
+      "Metodica antrenamentului"
     ],
-    "matchPercentage": 86,
-    "reason": "Instructor/antrenor de înot folosește direct competențele de conducere a antrenamentului și metodica antrenamentului pe ramuri de sport."
+    "matchPercentage": 88,
+    "reason": "Post de antrenor fotbal pe dezvoltarea tineretului, care folosește direct planificarea și conducerea antrenamentului și metodica antrenamentului pe ramuri de sport."
+  },
+  {
+    "url": "https://www.publi24.ro/anunturi/locuri-de-munca/profesori-traineri/anunt/antrenor-gimnastica/5g3ei1932h7274ihdd6ed3hi0g992e50.html",
+    "title": "Antrenor gimnastica",
+    "company": "PUBLI24 DIGITAL S.R.L.",
+    "location": [
+      "Sector 5, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:20:33.076Z",
+    "status": "scraped",
+    "tags": [
+      "Planificarea antrenamentului",
+      "Metodica antrenamentului"
+    ],
+    "matchPercentage": 84,
+    "reason": "Post de antrenor de gimnastică, potrivire directă cu planificarea și conducerea antrenamentului și metodica pe ramuri de sport."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/cautam-antrenor-personal-certificat-fitness",
+    "title": "Cautam antrenor personal certificat,fitness",
+    "company": "PURESHAPES SRL",
+    "location": [
+      "Pure Shapes Unirii, Bulevardul Unirii, Bucuresti, Romania,Pure Shapes, Strada Baba Novac, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:18:25.421Z",
+    "status": "scraped",
+    "tags": [
+      "Pregătirea fizică",
+      "Coaching"
+    ],
+    "matchPercentage": 82,
+    "reason": "Antrenor personal de fitness, potrivire directă cu pregătirea fizică și coaching-ul în activități sportive."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/kinetoterapeut-ploiesti",
+    "title": "Kinetoterapeut Ploiesti",
+    "company": "ISOKINETIC SPORT S.A.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-07T15:21:49.825Z",
+    "status": "scraped",
+    "tags": [
+      "Prevenirea accidentărilor",
+      "Pregătirea fizică"
+    ],
+    "matchPercentage": 62,
+    "reason": "Kinetoterapia se apropie de pregătirea fizică și prevenirea accidentărilor, dar este o profesiune clinică distinctă de cea de antrenor."
   }
 ]
