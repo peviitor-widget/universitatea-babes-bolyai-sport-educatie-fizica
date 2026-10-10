@@ -1,36 +1,70 @@
 [
   {
-    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
-    "title": "Antrenor Fotbal - Dezvoltare Tineret",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
+    "title": "INSTRUCTOR / ANTRENOR DE INOT",
+    "company": "AQUA LIFE SWIMMING SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:25:54.483Z",
+    "date": "2026-10-09T15:12:53.520Z",
     "status": "scraped",
     "tags": [
-      "Planificarea antrenamentului",
-      "Conducerea grupelor juniori"
+      "Metodica pe ramuri de sport",
+      "Conducerea sedintelor"
     ],
     "matchPercentage": 88,
-    "reason": "Post de antrenor de fotbal pentru dezvoltarea tineretului, potrivire directă cu planificarea antrenamentului și conducerea grupelor de juniori."
+    "reason": "Instructor de inot inseamna predare si conducerea sedintelor pentru juniori si seniori, direct pe ramura de sport."
   },
   {
-    "url": "https://www.anuntul.ro/anunt-angajare-antrenor-pilates-reformer-Ve9Z2P",
-    "title": "Antrenor pilates reformer",
-    "company": "ANUNTUL TOTAL SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/cautam-antrenor-personal-certificat-fitness",
+    "title": "Cautam antrenor personal certificat,fitness",
+    "company": "PURESHAPES SRL",
     "location": [
-      "Bucuresti, Romania"
+      "Pure Shapes Unirii, Bulevardul Unirii, Bucuresti, Romania,Pure Shapes, Strada Baba Novac, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-08T15:26:05.477Z",
+    "date": "2026-10-09T15:26:26.171Z",
     "status": "scraped",
     "tags": [
-      "Planificarea antrenamentului",
-      "Coaching în activitățile sportive"
+      "Conducerea antrenamentului",
+      "Metodica antrenamentului"
     ],
-    "matchPercentage": 80,
-    "reason": "Post de antrenor într-o disciplină motrică, direct legat de competențele de conducere a antrenamentului și coaching."
+    "matchPercentage": 85,
+    "reason": "Antrenor personal/fitness foloseste direct competentele de planificare si conducere a antrenamentului."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/kinetoterapeut-ploiesti",
+    "title": "Kinetoterapeut Ploiesti",
+    "company": "ISOKINETIC SPORT S.A.",
+    "location": [
+      "Ploiesti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:26:10.841Z",
+    "status": "scraped",
+    "tags": [
+      "Prevenirea accidentarilor",
+      "Monitorizarea performantei"
+    ],
+    "matchPercentage": 62,
+    "reason": "Kinetoterapia e doar partial in domeniu, iar profesia cere de regula calificare distincta de fizioterapie."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-profesoreasa-de-dans",
+    "title": "Profesor / Profesoreasă de dans",
+    "company": "PEOPLE SCALE S.R.L.",
+    "location": [
+      "Ilfov, Voluntari, zona Erou Iancu Nicolae, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-09T15:26:26.171Z",
+    "status": "scraped",
+    "tags": [
+      "Conducerea sedintelor",
+      "Educatie fizica scolara"
+    ],
+    "matchPercentage": 62,
+    "reason": "Profesor de dans implica conducerea de sedinte practice, dar domeniul e artistic si doar partial sportiv."
   }
 ]
