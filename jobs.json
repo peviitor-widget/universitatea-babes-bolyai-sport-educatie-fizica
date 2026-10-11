@@ -1,20 +1,37 @@
 [
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
-    "title": "INSTRUCTOR / ANTRENOR DE INOT",
-    "company": "AQUA LIFE SWIMMING SRL",
+    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
+    "title": "Antrenor Fotbal - Dezvoltare Tineret",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:12:53.520Z",
+    "date": "2026-10-10T14:25:50.179Z",
     "status": "scraped",
     "tags": [
-      "Metodica pe ramuri de sport",
-      "Conducerea sedintelor"
+      "antrenament sportiv",
+      "juniori"
     ],
     "matchPercentage": 88,
-    "reason": "Instructor de inot inseamna predare si conducerea sedintelor pentru juniori si seniori, direct pe ramura de sport."
+    "reason": "Antrenor fotbal dezvoltare tineret implică direct antrenamentul și metodica pe ramuri de sport."
+  },
+  {
+    "url": "https://www.jobradar24.ro/anunt/instructor-antrenor-de-inot-pentru-copii-6q5dmz",
+    "title": "Instructor / Antrenor de înot pentru copii",
+    "company": "BLUEWAN ART S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-10T14:35:38.236Z",
+    "status": "scraped",
+    "tags": [
+      "metodica antrenamentului",
+      "conducere grupe"
+    ],
+    "matchPercentage": 85,
+    "reason": "Instructor/antrenor de înot folosește direct metodica antrenamentului pe ramuri de sport și lucrul cu copiii."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/cautam-antrenor-personal-certificat-fitness",
@@ -24,47 +41,30 @@
       "Pure Shapes Unirii, Bulevardul Unirii, Bucuresti, Romania,Pure Shapes, Strada Baba Novac, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:26:26.171Z",
+    "date": "2026-10-10T14:21:56.813Z",
     "status": "scraped",
     "tags": [
-      "Conducerea antrenamentului",
-      "Metodica antrenamentului"
+      "antrenament individualizat",
+      "pregătire fizică"
     ],
-    "matchPercentage": 85,
-    "reason": "Antrenor personal/fitness foloseste direct competentele de planificare si conducere a antrenamentului."
+    "matchPercentage": 82,
+    "reason": "Antrenor personal fitness folosește proiectarea programelor de antrenament individualizate."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/kinetoterapeut-ploiesti",
-    "title": "Kinetoterapeut Ploiesti",
-    "company": "ISOKINETIC SPORT S.A.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/fizioterapeut-kinetoterapeut-8",
+    "title": "fizioterapeut/kinetoterapeut",
+    "company": "WELLCARE SRL",
     "location": [
-      "Ploiesti, Romania"
+      "WellCare: Clinica de Recuperare Medicala, Ortopedie si Medicina Sportiva, Strada Uranus, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-09T15:26:10.841Z",
+    "date": "2026-10-07T15:08:19.962Z",
     "status": "scraped",
     "tags": [
-      "Prevenirea accidentarilor",
-      "Monitorizarea performantei"
+      "evaluare motrică",
+      "prevenirea accidentărilor"
     ],
     "matchPercentage": 62,
-    "reason": "Kinetoterapia e doar partial in domeniu, iar profesia cere de regula calificare distincta de fizioterapie."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-profesoreasa-de-dans",
-    "title": "Profesor / Profesoreasă de dans",
-    "company": "PEOPLE SCALE S.R.L.",
-    "location": [
-      "Ilfov, Voluntari, zona Erou Iancu Nicolae, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-09T15:26:26.171Z",
-    "status": "scraped",
-    "tags": [
-      "Conducerea sedintelor",
-      "Educatie fizica scolara"
-    ],
-    "matchPercentage": 62,
-    "reason": "Profesor de dans implica conducerea de sedinte practice, dar domeniul e artistic si doar partial sportiv."
+    "reason": "Kinetoterapeut în clinică de medicină sportivă valorifică evaluarea motrică și prevenirea accidentărilor, potrivire parțială de domeniu la nivel entry."
   }
 ]
