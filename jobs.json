@@ -1,70 +1,36 @@
 [
   {
-    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
-    "title": "Antrenor Fotbal - Dezvoltare Tineret",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
+    "title": "INSTRUCTOR / ANTRENOR DE INOT",
+    "company": "AQUA LIFE SWIMMING SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:25:50.179Z",
+    "date": "2026-10-11T15:02:50.245Z",
     "status": "scraped",
     "tags": [
-      "antrenament sportiv",
-      "juniori"
+      "Antrenament sportiv",
+      "Metodica antrenamentului"
     ],
     "matchPercentage": 88,
-    "reason": "Antrenor fotbal dezvoltare tineret implică direct antrenamentul și metodica pe ramuri de sport."
+    "reason": "Antrenor/instructor de inot foloseste direct competentele de antrenament si conducere a sedintelor."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/instructor-antrenor-de-inot-pentru-copii-6q5dmz",
-    "title": "Instructor / Antrenor de înot pentru copii",
-    "company": "BLUEWAN ART S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/profesor-profesoreasa-de-dans",
+    "title": "Profesor / Profesoreasă de dans",
+    "company": "PEOPLE SCALE S.R.L.",
     "location": [
-      "Bucuresti, Romania"
+      "Ilfov, Voluntari, zona Erou Iancu Nicolae, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:35:38.236Z",
+    "date": "2026-10-11T15:06:11.385Z",
     "status": "scraped",
     "tags": [
-      "metodica antrenamentului",
-      "conducere grupe"
+      "Educatie fizica",
+      "Conducere sedinte"
     ],
-    "matchPercentage": 85,
-    "reason": "Instructor/antrenor de înot folosește direct metodica antrenamentului pe ramuri de sport și lucrul cu copiii."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/cautam-antrenor-personal-certificat-fitness",
-    "title": "Cautam antrenor personal certificat,fitness",
-    "company": "PURESHAPES SRL",
-    "location": [
-      "Pure Shapes Unirii, Bulevardul Unirii, Bucuresti, Romania,Pure Shapes, Strada Baba Novac, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-10T14:21:56.813Z",
-    "status": "scraped",
-    "tags": [
-      "antrenament individualizat",
-      "pregătire fizică"
-    ],
-    "matchPercentage": 82,
-    "reason": "Antrenor personal fitness folosește proiectarea programelor de antrenament individualizate."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/fizioterapeut-kinetoterapeut-8",
-    "title": "fizioterapeut/kinetoterapeut",
-    "company": "WELLCARE SRL",
-    "location": [
-      "WellCare: Clinica de Recuperare Medicala, Ortopedie si Medicina Sportiva, Strada Uranus, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:08:19.962Z",
-    "status": "scraped",
-    "tags": [
-      "evaluare motrică",
-      "prevenirea accidentărilor"
-    ],
-    "matchPercentage": 62,
-    "reason": "Kinetoterapeut în clinică de medicină sportivă valorifică evaluarea motrică și prevenirea accidentărilor, potrivire parțială de domeniu la nivel entry."
+    "matchPercentage": 65,
+    "reason": "Predare dans implica conducerea de sedinte motrice, dar potrivire doar partiala cu profilul sportiv."
   }
 ]
