@@ -1,71 +1,20 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/fizioterapeut-kinetoterapeut-8",
-    "title": "fizioterapeut/kinetoterapeut",
-    "company": "WELLCARE SRL",
-    "location": [
-      "WellCare: Clinica de Recuperare Medicala, Ortopedie si Medicina Sportiva, Strada Uranus, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:08:19.962Z",
-    "status": "scraped",
-    "tags": [
-      "Prevenirea accidentărilor",
-      "Pregătirea fizică"
-    ],
-    "matchPercentage": 85,
-    "reason": "Fizioterapeut/kinetoterapeut într-o clinică de medicină sportivă - potrivire directă cu profilul EFS."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/performance-trainer-glow-models-studio",
-    "title": "Performance Trainer – GLOW MODELS STUDIO",
-    "company": "EVEREST NEW GLOW S.R.L.",
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
+    "title": "INSTRUCTOR / ANTRENOR DE INOT",
+    "company": "AQUA LIFE SWIMMING SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-12T17:29:13.821Z",
+    "date": "2026-10-13T15:59:58.084Z",
     "status": "scraped",
     "tags": [
-      "Antrenament sportiv",
-      "Coaching"
+      "antrenament sportiv",
+      "metodica antrenamentului"
     ],
-    "matchPercentage": 65,
-    "reason": "Rol de trainer de performanta fizica ce poate folosi planificarea antrenamentului si coaching-ul sportiv, desi studioul de modeling face contextul partial relevant."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3411297",
-    "title": "ASISTENT MEDICAL BALNEOFIZIOKINETOTERAPIE ȘI RECUPERARE",
-    "company": "COMANDOR IMPEX SRL",
-    "location": [
-      "Campineanca, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:57:43.685Z",
-    "status": "scraped",
-    "tags": [
-      "Prevenirea accidentărilor",
-      "Pregătirea fizică"
-    ],
-    "matchPercentage": 64,
-    "reason": "Rol de recuperare/balneofiziokinetoterapie, înrudit parțial cu competențele EFS (exercițiu terapeutic, prevenirea accidentărilor), nivel entry."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3394214",
-    "title": "ANIMATOR SPORTIV",
-    "company": "POIANA CAILOR S.R.L.",
-    "location": [
-      "Singureni, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-12T17:34:18.456Z",
-    "status": "scraped",
-    "tags": [
-      "organizare sportiva",
-      "conducere sedinte"
-    ],
-    "matchPercentage": 62,
-    "reason": "Animator sportiv organizeaza si conduce activitati sportive si recreative, folosind partial competentele de specialitate, iar nivelul de experienta redus este potrivit."
+    "matchPercentage": 85,
+    "reason": "Antrenor/instructor de înot, potrivire directă cu planificarea și conducerea antrenamentului, nivel entry/junior."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-nutritie-nutritionist",
@@ -75,12 +24,12 @@
       "Bucuresti, Romania,Sibiu, Romania,Cluj-Napoca, Romania,Bacau, Romania,Zalau, Romania"
     ],
     "salary": null,
-    "date": "2026-10-10T14:23:05.324Z",
+    "date": "2026-10-13T15:57:23.967Z",
     "status": "scraped",
     "tags": [
-      "Nutriție"
+      "Nutriție sportivă"
     ],
-    "matchPercentage": 60,
-    "reason": "Consultant nutriție, parțial în domeniu prin competența de nutriție, nivel entry."
+    "matchPercentage": 62,
+    "reason": "Consultanță nutrițională se suprapune parțial cu competența de nutriție, nivel entry-level potrivit."
   }
 ]
