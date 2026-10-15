@@ -1,5 +1,22 @@
 [
   {
+    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
+    "title": "Antrenor Fotbal - Dezvoltare Tineret",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:37:48.892Z",
+    "status": "scraped",
+    "tags": [
+      "Conducerea antrenamentului",
+      "Grupe juniori"
+    ],
+    "matchPercentage": 90,
+    "reason": "Antrenor fotbal pentru dezvoltarea tineretului folosește direct planificarea și conducerea antrenamentului la grupe juniori."
+  },
+  {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
     "title": "INSTRUCTOR / ANTRENOR DE INOT",
     "company": "AQUA LIFE SWIMMING SRL",
@@ -7,29 +24,47 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:59:58.084Z",
+    "date": "2026-10-14T13:32:51.698Z",
     "status": "scraped",
     "tags": [
-      "antrenament sportiv",
-      "metodica antrenamentului"
+      "Metodica antrenamentului",
+      "Antrenament sportiv"
     ],
-    "matchPercentage": 85,
-    "reason": "Antrenor/instructor de înot, potrivire directă cu planificarea și conducerea antrenamentului, nivel entry/junior."
+    "matchPercentage": 88,
+    "reason": "Post de antrenor/instructor de înot, potrivire directă cu metodica antrenamentului pe ramuri de sport."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-nutritie-nutritionist",
-    "title": "Consultant Nutriție/ Nutriționist",
-    "company": "NATUR HOUSE COTROCENI S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/cautam-antrenor-personal-certificat-fitness",
+    "title": "Cautam antrenor personal certificat,fitness",
+    "company": "PURESHAPES SRL",
     "location": [
-      "Bucuresti, Romania,Sibiu, Romania,Cluj-Napoca, Romania,Bacau, Romania,Zalau, Romania"
+      "Pure Shapes Unirii, Bulevardul Unirii, Bucuresti, Romania,Pure Shapes, Strada Baba Novac, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-13T15:57:23.967Z",
+    "date": "2026-10-14T13:40:16.178Z",
     "status": "scraped",
     "tags": [
-      "Nutriție sportivă"
+      "Conducerea antrenamentului",
+      "Pregătire fizică"
     ],
-    "matchPercentage": 62,
-    "reason": "Consultanță nutrițională se suprapune parțial cu competența de nutriție, nivel entry-level potrivit."
+    "matchPercentage": 85,
+    "reason": "Antrenor personal fitness presupune proiectarea și conducerea programelor de antrenament, domeniul tău de specialitate."
+  },
+  {
+    "url": "https://www.anuntul.ro/anunt-angajare-antrenor-pilates-reformer-Ve9Z2P",
+    "title": "Antrenor pilates reformer",
+    "company": "ANUNTUL TOTAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-14T13:28:04.479Z",
+    "status": "scraped",
+    "tags": [
+      "Proiectarea programelor de antrenament",
+      "Evaluarea performanței"
+    ],
+    "matchPercentage": 82,
+    "reason": "Antrenor pilates presupune proiectarea programelor individuale de antrenament și evaluarea performanței motrice."
   }
 ]
