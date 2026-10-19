@@ -1,23 +1,5 @@
 [
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
-    "title": "INSTRUCTOR / ANTRENOR DE INOT",
-    "company": "AQUA LIFE SWIMMING SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:26.441Z",
-    "status": "scraped",
-    "tags": [
-      "Antrenament pe ramuri de sport",
-      "Conducerea antrenamentului"
-    ],
-    "matchPercentage": 88,
-    "reason": "Post de antrenor/instructor de înot, competență tehnică directă de antrenament și lucru cu grupe de diferite vârste."
-  },
-  {
     "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
     "title": "Antrenor Fotbal - Dezvoltare Tineret",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
@@ -29,10 +11,28 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "Conducerea antrenamentului",
-      "Programe de antrenament"
+      "antrenament sportiv",
+      "coaching"
     ],
-    "matchPercentage": 85,
-    "reason": "Antrenor fotbal pentru dezvoltarea tineretului, potrivire directă cu planificarea și conducerea antrenamentului."
+    "matchPercentage": 95,
+    "reason": "Antrenor de fotbal cu dezvoltare de tineret utilizeaza direct planificarea antrenamentului sportiv si conducerea grupelor juniori, fiind potrivit pentru nivel entry/junior."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
+    "title": "INSTRUCTOR / ANTRENOR DE INOT",
+    "company": "AQUA LIFE SWIMMING SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:26.441Z",
+    "status": "scraped",
+    "tags": [
+      "antrenament sportiv",
+      "pregatire fizica"
+    ],
+    "matchPercentage": 95,
+    "reason": "Instructor/antrenor de inot se incadreaza in domeniul antrenamentului si pregatirii fizice, corespunzand nivelului entry/junior pentru un absolvent FEFS."
   }
 ]
