@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "antrenament sportiv",
-      "coaching"
+      "Conducerea antrenamentului",
+      "Proiectarea programelor de antrenament"
     ],
-    "matchPercentage": 95,
-    "reason": "Antrenor de fotbal cu dezvoltare de tineret utilizeaza direct planificarea antrenamentului sportiv si conducerea grupelor juniori, fiind potrivit pentru nivel entry/junior."
+    "matchPercentage": 88,
+    "reason": "Antrenor de fotbal pentru dezvoltarea tineretului folosește direct planificarea antrenamentului și conducerea grupelor juniori."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
@@ -29,10 +29,10 @@
     "date": "2026-10-17T12:08:26.441Z",
     "status": "scraped",
     "tags": [
-      "antrenament sportiv",
-      "pregatire fizica"
+      "Metodica antrenamentului",
+      "Conducerea antrenamentului"
     ],
-    "matchPercentage": 95,
-    "reason": "Instructor/antrenor de inot se incadreaza in domeniul antrenamentului si pregatirii fizice, corespunzand nivelului entry/junior pentru un absolvent FEFS."
+    "matchPercentage": 85,
+    "reason": "Post de antrenor/instructor de înot, potrivire directă cu metodica antrenamentului pe ramuri de sport și lucrul cu grupe de vârste."
   }
 ]
