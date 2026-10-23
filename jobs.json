@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "Metodica antrenamentului",
-      "Conducerea ședințelor"
+      "Antrenament sportiv",
+      "Metodica antrenamentului"
     ],
     "matchPercentage": 88,
-    "reason": "Antrenor de fotbal pentru tineret, potrivire directă pe metodica antrenamentului și conducerea grupelor de juniori."
+    "reason": "Antrenorul pentru dezvoltarea tineretului folosește direct competențe de antrenament și metodica fotbalului."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
@@ -29,10 +29,10 @@
     "date": "2026-10-17T12:08:26.441Z",
     "status": "scraped",
     "tags": [
-      "Planificarea antrenamentului",
-      "Conducerea ședințelor"
+      "Conducerea ședințelor",
+      "Antrenament sportiv"
     ],
-    "matchPercentage": 85,
-    "reason": "Instructor/antrenor de înot, aplică direct competențele de planificare și conducere a antrenamentului."
+    "matchPercentage": 86,
+    "reason": "Instructorul/antrenorul de înot desfășoară direct ședințe de antrenament cu copii și adulți."
   }
 ]
