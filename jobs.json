@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
+    "title": "Antrenor Fotbal - Dezvoltare Tineret",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:11:46.322Z",
+    "status": "scraped",
+    "tags": [
+      "antrenament",
+      "juniori"
+    ],
+    "matchPercentage": 95,
+    "reason": "Antrenor fotbal tineret foloseste direct planificarea si conducerea antrenamentului"
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
+    "title": "INSTRUCTOR / ANTRENOR DE INOT",
+    "company": "AQUA LIFE SWIMMING SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:26.441Z",
+    "status": "scraped",
+    "tags": [
+      "antrenament",
+      "inot"
+    ],
+    "matchPercentage": 95,
+    "reason": "Instructor/antrenor inot foloseste metodele de pregatire si conducere grupe"
+  },
+  {
+    "url": "https://cariere.decathlon.ro/jobs/tehnician-reparatii-echipamente-sportive-ceot",
+    "title": "Tehnician Reparatii Echipamente Sportive",
+    "company": "ROUMASPORT SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-24T10:26:50.967Z",
+    "status": "scraped",
+    "tags": [
+      "echipamente",
+      "reparații"
+    ],
+    "matchPercentage": 85,
+    "reason": "Reparații și reglaje echipamente sportive - se potrivește competențelor practice în sport."
+  }
+]
