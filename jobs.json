@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "antrenament",
-      "juniori"
+      "antrenament sportiv",
+      "grupe juniori"
     ],
-    "matchPercentage": 95,
-    "reason": "Antrenor fotbal tineret foloseste direct planificarea si conducerea antrenamentului"
+    "matchPercentage": 88,
+    "reason": "Antrenorul de fotbal pentru tineret implică direct planificarea și conducerea antrenamentelor pentru grupe de juniori."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
@@ -29,28 +29,10 @@
     "date": "2026-10-17T12:08:26.441Z",
     "status": "scraped",
     "tags": [
-      "antrenament",
-      "inot"
-    ],
-    "matchPercentage": 95,
-    "reason": "Instructor/antrenor inot foloseste metodele de pregatire si conducere grupe"
-  },
-  {
-    "url": "https://cariere.decathlon.ro/jobs/tehnician-reparatii-echipamente-sportive-ceot",
-    "title": "Tehnician Reparatii Echipamente Sportive",
-    "company": "ROUMASPORT SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-24T10:26:50.967Z",
-    "status": "scraped",
-    "tags": [
-      "echipamente",
-      "reparații"
+      "antrenament sportiv",
+      "metodică"
     ],
     "matchPercentage": 85,
-    "reason": "Reparații și reglaje echipamente sportive - se potrivește competențelor practice în sport."
+    "reason": "Instructorul/antrenorul de înot presupune conducerea ședințelor de antrenament și aplicarea metodicii sportive."
   }
 ]
