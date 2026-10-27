@@ -11,28 +11,10 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "antrenament sportiv",
-      "grupe juniori"
+      "antrenament",
+      "coaching"
     ],
-    "matchPercentage": 88,
-    "reason": "Antrenorul de fotbal pentru tineret implică direct planificarea și conducerea antrenamentelor pentru grupe de juniori."
-  },
-  {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
-    "title": "INSTRUCTOR / ANTRENOR DE INOT",
-    "company": "AQUA LIFE SWIMMING SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:08:26.441Z",
-    "status": "scraped",
-    "tags": [
-      "antrenament sportiv",
-      "metodică"
-    ],
-    "matchPercentage": 85,
-    "reason": "Instructorul/antrenorul de înot presupune conducerea ședințelor de antrenament și aplicarea metodicii sportive."
+    "matchPercentage": 95,
+    "reason": "Antrenor pentru tineret, se potrivește direct competențelor de coaching."
   }
 ]
