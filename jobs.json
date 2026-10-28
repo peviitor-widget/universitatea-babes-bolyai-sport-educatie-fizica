@@ -12,9 +12,45 @@
     "status": "scraped",
     "tags": [
       "antrenament",
-      "coaching"
+      "tineret"
     ],
-    "matchPercentage": 95,
-    "reason": "Antrenor pentru tineret, se potrivește direct competențelor de coaching."
+    "matchPercentage": 90,
+    "reason": "Se potrivește direct cu conducerea antrenamentului și dezvoltarea tineretului în fotbal."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
+    "title": "INSTRUCTOR / ANTRENOR DE INOT",
+    "company": "AQUA LIFE SWIMMING SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:08:26.441Z",
+    "status": "scraped",
+    "tags": [
+      "antrenament",
+      "inot"
+    ],
+    "matchPercentage": 90,
+    "reason": "Postul de instructor/antrenor de înot utilizează direct metodica antrenamentului și conducerea ședințelor."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3404495",
+    "title": "ASISTENT MEDICAL BALNEOFIZIOTERAPIE, BALNEOFIZIOKINETOTERAPIE ȘI RECUPERARE",
+    "company": "ANILEDA STAR S.R.L.",
+    "location": [
+      "Botosani",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:34.311Z",
+    "status": "scraped",
+    "tags": [
+      "recuperare",
+      "prevenire"
+    ],
+    "matchPercentage": 65,
+    "reason": "Activitate de recuperare parțial relevantă pentru prevenirea accidentărilor."
   }
 ]
