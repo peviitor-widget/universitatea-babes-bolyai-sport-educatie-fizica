@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "antrenament",
-      "tineret"
+      "antrenament sportiv",
+      "juniori"
     ],
     "matchPercentage": 90,
-    "reason": "Se potrivește direct cu conducerea antrenamentului și dezvoltarea tineretului în fotbal."
+    "reason": "Antrenor de fotbal pentru dezvoltarea tineretului, rol direct de conducere a antrenamentului la nivel junior."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
@@ -29,28 +29,10 @@
     "date": "2026-10-17T12:08:26.441Z",
     "status": "scraped",
     "tags": [
-      "antrenament",
-      "inot"
+      "antrenament sportiv",
+      "metodica antrenamentului"
     ],
-    "matchPercentage": 90,
-    "reason": "Postul de instructor/antrenor de înot utilizează direct metodica antrenamentului și conducerea ședințelor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3404495",
-    "title": "ASISTENT MEDICAL BALNEOFIZIOTERAPIE, BALNEOFIZIOKINETOTERAPIE ȘI RECUPERARE",
-    "company": "ANILEDA STAR S.R.L.",
-    "location": [
-      "Botosani",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:34.311Z",
-    "status": "scraped",
-    "tags": [
-      "recuperare",
-      "prevenire"
-    ],
-    "matchPercentage": 65,
-    "reason": "Activitate de recuperare parțial relevantă pentru prevenirea accidentărilor."
+    "matchPercentage": 85,
+    "reason": "Instructor/antrenor de înot, activitate directă de predare și conducere a antrenamentului sportiv."
   }
 ]
