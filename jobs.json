@@ -11,11 +11,11 @@
     "date": "2026-10-17T12:11:46.322Z",
     "status": "scraped",
     "tags": [
-      "antrenament sportiv",
-      "juniori"
+      "Antrenament sportiv",
+      "Juniori"
     ],
-    "matchPercentage": 90,
-    "reason": "Antrenor de fotbal pentru dezvoltarea tineretului, rol direct de conducere a antrenamentului la nivel junior."
+    "matchPercentage": 88,
+    "reason": "Antrenor de fotbal pentru dezvoltarea tineretului, cu activitate directă de conducere a antrenamentului și lucru cu sportivi juniori."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
@@ -29,10 +29,10 @@
     "date": "2026-10-17T12:08:26.441Z",
     "status": "scraped",
     "tags": [
-      "antrenament sportiv",
-      "metodica antrenamentului"
+      "Antrenament sportiv",
+      "Metodica antrenamentului"
     ],
-    "matchPercentage": 85,
-    "reason": "Instructor/antrenor de înot, activitate directă de predare și conducere a antrenamentului sportiv."
+    "matchPercentage": 82,
+    "reason": "Instructor/antrenor de înot cu activitate directă de predare și antrenament sportiv pentru copii și adulți."
   }
 ]
