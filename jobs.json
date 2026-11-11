@@ -12,10 +12,10 @@
     "status": "scraped",
     "tags": [
       "antrenament sportiv",
-      "juniori"
+      "metodica antrenamentului"
     ],
     "matchPercentage": 85,
-    "reason": "Antrenor de fotbal pentru tineret, folosește direct competențele de planificare și conducere a antrenamentului."
+    "reason": "Antrenor de fotbal pentru dezvoltarea tineretului, rol direct de planificare și conducere a antrenamentului."
   },
   {
     "url": "https://www.ejobs.ro/user/locuri-de-munca/instructor-antrenor-de-inot/1989876",
@@ -30,9 +30,9 @@
     "status": "scraped",
     "tags": [
       "antrenament sportiv",
-      "metodica"
+      "coaching"
     ],
-    "matchPercentage": 85,
-    "reason": "Instructor/antrenor de înot, aplică direct metodica antrenamentului și lucrul cu sportivi de diferite vârste."
+    "matchPercentage": 80,
+    "reason": "Instructor/antrenor de înot pentru copii și adulți, activitate directă de coaching și conducere a ședințelor."
   }
 ]
