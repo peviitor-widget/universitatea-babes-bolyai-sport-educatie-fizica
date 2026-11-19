@@ -1,1 +1,73 @@
-[]
+[
+  {
+    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
+    "title": "Antrenor Fotbal - Dezvoltare Tineret",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:02:29Z",
+    "status": "tested",
+    "tags": [
+      "metodica antrenament",
+      "grupe juniori"
+    ],
+    "matchPercentage": 92,
+    "reason": "Antrenorul de fotbal pentru tineret aplică metodica antrenamentului pe ramură și conduce ședințe pentru grupe juniori."
+  },
+  {
+    "url": "https://18gym.ro/cariere/#antrenor-personal",
+    "title": "Antrenor personal",
+    "company": "EIGHTEENGYM SRL",
+    "location": [
+      "Alba Iulia",
+      "Arad",
+      "Bacău",
+      "Baia Mare",
+      "Bistrița",
+      "Brașov",
+      "București",
+      "Cluj-Napoca",
+      "Câmpia Turzii",
+      "Constanța",
+      "Luduș",
+      "Mediaș",
+      "Piatra Neamț",
+      "Satu-Mare",
+      "Târgu Mureș",
+      "Turda",
+      "Iași",
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-18T15:28:48.794Z",
+    "status": "activ",
+    "tags": [
+      "planificare antrenament",
+      "programe individualizate"
+    ],
+    "matchPercentage": 90,
+    "reason": "Antrenorul personal planifică și conduce antrenamente și proiectează programe individualizate, la nivel de început de carieră cu training oferit."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272092/QLT-Group-Romania-|-Recrutare/Kinetoterapeut-|-Consilier-Vanzare-Dispozitive-Medicale",
+    "title": "Kinetoterapeut | Consilier Vanzare Dispozitive Medicale",
+    "company": "QLT GROUP DIVISION SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:37:00Z",
+    "status": "tested",
+    "tags": [
+      "Biomecanică",
+      "Nevoi speciale"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rolul de kinetoterapeut folosește direct biomecanica și antrenamentul pentru nevoi speciale, deși include și o componentă de vânzări."
+  }
+]
