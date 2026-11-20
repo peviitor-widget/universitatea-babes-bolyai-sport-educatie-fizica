@@ -14,8 +14,8 @@
       "metodica antrenament",
       "grupe juniori"
     ],
-    "matchPercentage": 92,
-    "reason": "Antrenorul de fotbal pentru tineret aplică metodica antrenamentului pe ramură și conduce ședințe pentru grupe juniori."
+    "matchPercentage": 90,
+    "reason": "Antrenorul de fotbal pentru tineret aplică metodica pe ramură de sport și conduce ședințe pentru grupe de juniori, fără cerințe de senioritate."
   },
   {
     "url": "https://18gym.ro/cariere/#antrenor-personal",
@@ -43,31 +43,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-18T15:28:48.794Z",
+    "date": "2026-11-19T15:35:36.287Z",
     "status": "activ",
     "tags": [
       "planificare antrenament",
       "programe individualizate"
     ],
-    "matchPercentage": 90,
-    "reason": "Antrenorul personal planifică și conduce antrenamente și proiectează programe individualizate, la nivel de început de carieră cu training oferit."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272092/QLT-Group-Romania-|-Recrutare/Kinetoterapeut-|-Consilier-Vanzare-Dispozitive-Medicale",
-    "title": "Kinetoterapeut | Consilier Vanzare Dispozitive Medicale",
-    "company": "QLT GROUP DIVISION SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:37:00Z",
-    "status": "tested",
-    "tags": [
-      "Biomecanică",
-      "Nevoi speciale"
-    ],
-    "matchPercentage": 65,
-    "reason": "Rolul de kinetoterapeut folosește direct biomecanica și antrenamentul pentru nevoi speciale, deși include și o componentă de vânzări."
+    "matchPercentage": 88,
+    "reason": "Antrenorul personal folosește direct planificarea antrenamentului și proiectarea programelor individualizate, la nivel entry-level într-un club de fitness."
   }
 ]
