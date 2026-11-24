@@ -25,14 +25,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-22T14:25:11.247Z",
+    "date": "2026-11-23T17:52:18.455Z",
     "status": "activ",
     "tags": [
-      "planificare antrenament",
-      "programe individualizate"
+      "Planificare antrenament",
+      "Programe individualizate"
     ],
-    "matchPercentage": 92,
-    "reason": "Post de antrenor personal într-o sală de fitness care folosește direct planificarea antrenamentului și programele individualizate, la nivel de început de carieră."
+    "matchPercentage": 90,
+    "reason": "Rolul de antrenor personal folosește direct planificarea antrenamentului și proiectarea programelor individualizate, la nivel de intrare."
   },
   {
     "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
@@ -46,10 +46,10 @@
     "date": "2026-11-17T09:02:29Z",
     "status": "tested",
     "tags": [
-      "metodica antrenamentului",
-      "grupe juniori"
+      "Metodica antrenament",
+      "Grupe juniori"
     ],
     "matchPercentage": 90,
-    "reason": "Antrenor de fotbal pentru dezvoltarea tineretului, domeniu direct din specialitate și nivel potrivit pentru un absolvent."
+    "reason": "Antrenor de fotbal pentru tineret folosește metodica pe ramuri sportive și conducerea ședințelor cu grupe de juniori."
   }
 ]
