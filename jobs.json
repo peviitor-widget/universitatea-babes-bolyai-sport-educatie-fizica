@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "url": "https://multijobs.ro/job/antrenor-fotbal-dezvoltare-tineret/2809",
+    "title": "Antrenor Fotbal - Dezvoltare Tineret",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:02:29Z",
+    "status": "tested",
+    "tags": [
+      "Metodica antrenament",
+      "Grupe juniori"
+    ],
+    "matchPercentage": 90,
+    "reason": "Antrenorul de fotbal pentru tineret aplică metodica pe ramură și conduce grupe de juniori, la nivel de început de carieră."
+  },
+  {
+    "url": "https://18gym.ro/cariere/#antrenor-personal",
+    "title": "Antrenor personal",
+    "company": "EIGHTEENGYM SRL",
+    "location": [
+      "Alba Iulia",
+      "Arad",
+      "Bacău",
+      "Baia Mare",
+      "Bistrița",
+      "Brașov",
+      "București",
+      "Cluj-Napoca",
+      "Câmpia Turzii",
+      "Constanța",
+      "Luduș",
+      "Mediaș",
+      "Piatra Neamț",
+      "Satu-Mare",
+      "Târgu Mureș",
+      "Turda",
+      "Iași",
+      "Sibiu",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-25T17:02:03.185Z",
+    "status": "activ",
+    "tags": [
+      "Planificare antrenament",
+      "Programe individualizate"
+    ],
+    "matchPercentage": 88,
+    "reason": "Postul de antrenor personal folosește direct planificarea antrenamentului și proiectarea programelor individualizate, fără cerințe de senioritate."
+  }
+]
